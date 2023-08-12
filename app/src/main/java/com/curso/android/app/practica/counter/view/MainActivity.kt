@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         mainViewModel.counter.observe(this) {
             println("Recibimos un nuevo valor de counter. $it")
             binding.counter.text = "${it.number}"
-            binding.timestamp.text = "Actualizado ${it.timestamp}"
+            binding.timestamp.text = "Updated ${it.timestamp}"
         }
 
         binding.incrementButton.setOnClickListener {

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Counter</string>
+    <string name="zero">Zero</string>
+    <string name="up">Up</string>
+    <string name="down">Down</string>
+    <string name="update">Last update:</string>
 </resources>

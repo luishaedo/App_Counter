@@ -10,9 +10,9 @@ import java.util.Date
 
 class MainViewModel: ViewModel() {
 
-    // Solo queremos que se pueda leer el contador
+    // Only reed
     val counter: LiveData<Counter> get() = _counter
-    // no nos interesa que se modifique por fuera del ViewModel
+    // reed and write by viewmodel
     private var _counter = MutableLiveData<Counter>(Counter(0, Date()))
 
     fun incrementCounter() {
