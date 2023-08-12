@@ -13,7 +13,7 @@ Cómo Contribuir ¡Estamos abiertos a contribuciones! Si deseas colaborar en est
 
 Hacer un Fork del repositorio. Crea una rama con un nombre descriptivo: git checkout -b nueva-caracteristica. Realiza tus cambios y realiza commits: git commit -m "Agrega una nueva característica". Sube tus cambios a tu repositorio: git push origin nueva-caracteristica. Abre una solicitud pull para que revisemos tus cambios.
 
-Instalación Clona este repositorio: git clone (https://github.com/luishaedo/App_Lab_Andoid_Ticmas). Abre el proyecto en Android Studio. Conecta un dispositivo Android o utiliza el emulador. Compila y ejecuta la aplicación.
+Instalación Clona este repositorio: git clone (https://github.com/luishaedo/App_Counter). Abre el proyecto en Android Studio. Conecta un dispositivo Android o utiliza el emulador. Compila y ejecuta la aplicación.
 
 Agradecimientos Agradecemos a Ticmas por proporcionar el curso y el entorno para aprender y desarrollar esta aplicación.
 
